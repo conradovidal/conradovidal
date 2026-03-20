@@ -1,12 +1,12 @@
 # Hi, I'm Conrado
 
-I build products with AI, clarity, and a strong systems lens.
+I build products using AI, product thinking, and a strong systems lens.
 
-Right now, I'm focused on turning ideas into real products, refining user experience, and building things that help people plan, decide, and act with more intention.
+Right now, I'm focused on turning ideas into useful products, refining user experience, and building things that help people plan, decide, and act with more intention.
 
 ## Current focus
 
-- Building **Doze52**, a year-in-view planning and review tool
+- Building **Doze 52**, a year-in-view planning and review tool
 - Exploring AI-native workflows for product development
 - Sharpening product thinking through real projects, not just theory
 
