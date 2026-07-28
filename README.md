@@ -1,30 +1,37 @@
 # Hi, I'm Conrado
 
-This profile is where I document the products I’m building, the ideas I’m testing, and the way I think about product decisions.
+I work with strategy, delivery, and product development.
 
-Right now, I’m focused on building useful products, refining user experience, and learning through real use.
+My work has often been about making complex contexts easier to navigate, connecting business goals, priorities, decisions, and day-to-day execution.
+
+This profile is where I document the products I am building, the ideas I am testing, and what I learn from turning real problems into working solutions.
 
 ## Current focus
 
-- Building **Doze52**, a year-in-view planning and review tool
-- Exploring AI-native workflows for product development
-- Sharpening product thinking through real projects, not just theory
+- Building Doze52, a visual planning and review product
+- Exploring AI-assisted product development
+- Improving product decisions through real use and feedback
+- Sharing the process behind what I build
 
 ## Featured project
 
 ### Doze52
-A visual tool for planning priorities, reviewing patterns, and seeing the whole year clearly.
 
-- Product page: [doze52.com.br](https://doze52.com.br)
-- Repository: [Doze52](https://github.com/conradovidal/doze52)
+Doze52 started as a tool I wanted for myself: a clearer way to see the whole year, organize priorities, and review how plans evolve over time.
+
+It is now becoming a product for people who want more visibility over their goals, commitments, and progress without turning planning into another complex system.
+
+- Product: [doze52.com.br](https://doze52.com.br)
+- Repository: [Doze52](https://github.com/conradovidal/Doze52)
 
 ## How I like to build
 
-- Start with the problem
-- Keep scope simple
-- Improve through real use
+- Start with a real problem
+- Keep the first version simple
+- Use the product before expanding it
+- Learn from behavior, not only opinions
 - Use AI as leverage, not as a substitute for judgment
 
 ## More about me
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/conradovidal/)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/conradovidal/).
