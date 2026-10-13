@@ -22,7 +22,7 @@ Doze52 started as a tool I wanted for myself: a clearer way to see the whole yea
 It is now becoming a product for people who want more visibility over their goals, commitments, and progress without turning planning into another complex system.
 
 - Product: [doze52.com.br](https://doze52.com.br)
-- Repository: [Doze52](https://github.com/conradovidal/Doze52)
+- Showcase: [Doze52-showcase](https://github.com/conradovidal/Doze52-showcase)
 
 ## How I like to build
 
