@@ -1,37 +1,44 @@
 # Hi, I'm Conrado
 
-I work with strategy, delivery, and product development.
+I work across strategy, operations, and technology, helping organizations turn complex challenges into clear priorities, coordinated execution, and measurable outcomes.
 
-My work has often been about making complex contexts easier to navigate, connecting business goals, priorities, decisions, and day-to-day execution.
+My background spans 10 years across business operations, technology, strategic planning, and delivery management.
 
-This profile is where I document the products I am building, the ideas I am testing, and what I learn from turning real problems into working solutions.
+Alongside my professional career, I build digital products and explore how AI can make software development more accessible, efficient, and practical.
 
-## Current focus
+## What I work on
 
-- Building Doze52, a visual planning and review product
-- Exploring AI-assisted product development
-- Improving product decisions through real use and feedback
-- Sharing the process behind what I build
+### Strategy & Execution
+Connecting business objectives to operational priorities through governance, metrics, and structured decision-making.
+
+### Program & Delivery Management
+Coordinating cross-functional initiatives, improving workflows, and helping teams deliver with greater clarity and predictability.
+
+### Product Development
+Turning real problems into working digital products, combining product thinking, user feedback, and AI-assisted development.
 
 ## Featured project
 
-### Doze52
+### Doze52 | Founder & Product Builder
 
-Doze52 started as a tool I wanted for myself: a clearer way to see the whole year, organize priorities, and review how plans evolve over time.
+A visual planning platform designed to help people organize their year, manage priorities, and track progress.
 
-It is now becoming a product for people who want more visibility over their goals, commitments, and progress without turning planning into another complex system.
+The project started as a personal need for a clearer view of time and commitments. It evolved into a functional digital product.
 
-- Product: [doze52.com.br](https://doze52.com.br)
-- Showcase: [Doze52-showcase](https://github.com/conradovidal/Doze52-showcase)
+I'm responsible for product decisions, design, development, and the ongoing evolution of the platform.
 
-## How I like to build
+- **Live product:** [doze52.com.br](https://doze52.com.br)
+- **Product showcase:** [Doze52-showcase](https://github.com/conradovidal/Doze52-showcase)
 
-- Start with a real problem
-- Keep the first version simple
-- Use the product before expanding it
-- Learn from behavior, not only opinions
-- Use AI as leverage, not as a substitute for judgment
+## How I approach problems
 
-## More about me
+My experience in strategy and operations shapes how I build products.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/conradovidal/).
+I focus on understanding the problem before choosing a solution, making priorities visible, and using real feedback to guide decisions.
+
+Technology, including AI, is a way to accelerate that process, not the starting point.
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/conradovidal](https://www.linkedin.com/in/conradovidal/)
+- **Doze52:** [doze52.com.br](https://doze52.com.br)
